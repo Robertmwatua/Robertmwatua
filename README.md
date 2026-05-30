@@ -7,7 +7,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=%24+sudo+su+R0b3rt0;%5BACCESS+GRANTED%5D+Welcome%2C+Operator.;Offensive+Security+%7C+Web+Exploitation+%7C+AD+Attacks;picoCTF+%7C+Hack+The+Box+%7C+SK-CERT+%7C+t3rmCTF;%F0%9F%8F%86+Youth+STEM+Innovation+2026+Winner+%E2%80%94+STRI;You%27ll+sleep+when+you+die." alt="Typing SVG"/>
+<!-- MR ROBOT GIF — CENTERED HERO -->
+<img src="https://media.giphy.com/media/d31wIu3HgY048MKs/giphy.gif" width="480" alt="Mr Robot Hacker GIF"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=%24+sudo+su+R0b3rt0;%5BACCESS+GRANTED%5D+Welcome%2C+Operator.;Offensive+Security+%7C+Web+Exploitation+%7C+AD+Attacks;picoCTF+%7C+Hack+The+Box+%7C+SK-CERT+%7C+t3rmCTF;%F0%9F%8F%86+Youth+STEM+Innovation+2026+Winner+%E2%80%94+STRI;Hello+friend.+You'll+sleep+when+you+die." alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -24,7 +29,6 @@
 
 </div>
 
-<!-- ==================== DIVIDER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <!-- ==================== BOOT SEQUENCE ==================== -->
@@ -32,13 +36,6 @@
 
 ```console
 root@R0b3rt0:~# cat /etc/operator.conf
-
-██╗███╗   ██╗███████╗██╗██╗     ████████╗██████╗  █████╗ ████████╗██╗ ██████╗ ███╗   ██╗
-██║████╗  ██║██╔════╝██║██║        ██╔══╝██╔══██╗██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║
-██║██╔██╗ ██║█████╗  ██║██║        ██║   ██████╔╝███████║   ██║   ██║██║   ██║██╔██╗ ██║
-██║██║╚██╗██║██╔══╝  ██║██║        ██║   ██╔══██╗██╔══██║   ██║   ██║██║   ██║██║╚██╗██║
-██║██║ ╚████║██║     ██║███████╗   ██║   ██║  ██║██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║
-╚═╝╚═╝  ╚═══╝╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 
 [+] Identity    : R0b3rt0 / Robert Mwatua
 [+] Node        : Nairobi, Kenya [KE] 🇰🇪
@@ -48,11 +45,11 @@ root@R0b3rt0:~# cat /etc/operator.conf
 [+] Philosophy  : "You'll sleep when you die."
 [+] Award       : 🏆 Youth STEM Innovation 2026 — STRI Winner
 
-[SYSTEM] All systems operational. Intrusion detection: DISABLED.
+[SYSTEM] All systems operational. IDS: DISABLED.
 [SYSTEM] Initializing attack surface scan...
+[SYSTEM] Hello friend. ░░░░░░░░░░░░░░ 100% complete.
 ```
 
-<!-- ==================== DIVIDER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <!-- ==================== ATTACK VECTORS ==================== -->
@@ -121,7 +118,13 @@ VECTOR #4 — CTF & FORENSICS
 </tr>
 </table>
 
-<!-- ==================== DIVIDER ==================== -->
+<!-- MR ROBOT TYPING GIF -->
+<div align="center">
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="480" alt="Elliot hacking"/>
+<br/>
+<sub><i>"Hello friend. Hello friend? That's lame. Maybe I should give you a name."</i> — Elliot Alderson</sub>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <!-- ==================== ACHIEVEMENTS ==================== -->
@@ -221,19 +224,18 @@ Multi-domain CTF operator
 
 </div>
 
-<!-- ==================== DIVIDER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <!-- ==================== ARSENAL ==================== -->
 ## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="28"/> `> ls -la /usr/local/bin/toolkit`
 
 ```diff
-+ [STABLE]  xss-generator         → Context-aware engine · 18 contexts · WAF evasion · blind XSS callbacks
-! [TESTING] rate-limit-bypass-tester → Stateful firewall & API rate restriction bypass auditing tool  
-+ [STABLE]  nmap-scanning-tool    → Automated multi-vector port scanning & asset discovery framework
-+ [STABLE]  sqlmap-x              → Extended SQL injection toolkit for automated DB fingerprinting
-~ [ACTIVE]  darkbyte-bot          → Python automation bot — active development
-~ [ACTIVE]  farmguard             → TypeScript full-stack platform — active development
++ [STABLE]  xss-generator           → Context-aware engine · 18 contexts · WAF evasion · blind XSS callbacks
+! [TESTING] rate-limit-bypass-tester → Stateful firewall & API rate restriction bypass auditing tool
++ [STABLE]  nmap-scanning-tool      → Automated multi-vector port scanning & asset discovery framework
++ [STABLE]  sqlmap-x                → Extended SQL injection toolkit for automated DB fingerprinting
+~ [ACTIVE]  darkbyte-bot            → Python automation bot — active development
+~ [ACTIVE]  farmguard               → TypeScript full-stack platform — active development
 ```
 
 <div align="center">
@@ -249,7 +251,6 @@ Multi-domain CTF operator
 
 </div>
 
-<!-- ==================== DIVIDER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <!-- ==================== SKILLS ==================== -->
@@ -283,13 +284,9 @@ Multi-domain CTF operator
 </td></tr>
 </table>
 
-</div>
-
 <br/>
 
-<div align="center">
-
-**`// Offensive Toolkit`**
+**`// Tools I operate`**
 
 ![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Burp](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -310,7 +307,6 @@ Multi-domain CTF operator
 
 </div>
 
-<!-- ==================== DIVIDER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <!-- ==================== METRICS ==================== -->
@@ -331,7 +327,6 @@ Multi-domain CTF operator
 
 </div>
 
-<!-- ==================== DIVIDER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <!-- ==================== ACTIVITY GRAPH ==================== -->
@@ -343,7 +338,6 @@ Multi-domain CTF operator
 
 </div>
 
-<!-- ==================== DIVIDER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <!-- ==================== SNAKE ==================== -->
@@ -359,7 +353,6 @@ Multi-domain CTF operator
 
 </div>
 
-<!-- ==================== DIVIDER ==================== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3"/>
 
 <!-- ==================== CONNECT ==================== -->
@@ -372,10 +365,10 @@ Scanning R0b3rt0 contact surface...
 
 PORT     STATE  SERVICE     VERSION
 22/tcp   open   ssh         github.com/Robertmwatua
-443/tcp  open   https       app.hackthebox.com/profile/Robertmwatua  
+443/tcp  open   https       app.hackthebox.com/profile/Robertmwatua
 8080/tcp open   http        linkedin.com/in/robertmwatua
 
-[3 open ports found. All services accepting connections.]
+[3 open ports] All services accepting connections. No firewall detected.
 ```
 
 <br/>
@@ -383,6 +376,13 @@ PORT     STATE  SERVICE     VERSION
 [![GitHub](https://img.shields.io/badge/⬡%20GITHUB-Robertmwatua-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/Robertmwatua)
 [![HackTheBox](https://img.shields.io/badge/⬡%20HACK%20THE%20BOX-R0b3rt0-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=000000)](https://app.hackthebox.com/profile/Robertmwatua)
 [![LinkedIn](https://img.shields.io/badge/⬡%20LINKEDIN-Robert%20Mwatua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000)](https://linkedin.com/in/robertmwatua)
+
+<br/>
+
+<!-- FINAL MR ROBOT QUOTE GIF -->
+<img src="https://media.giphy.com/media/cMDRDRwMgBnMqHJYqb/giphy.gif" width="400" alt="Mr Robot fsociety"/>
+<br/>
+<sub><i>"Give a man a gun and he can rob a bank. Give a man a bank and he can rob the world."</i></sub>
 
 </div>
 
@@ -393,5 +393,6 @@ PORT     STATE  SERVICE     VERSION
 
 ![](https://img.shields.io/badge/-%E2%96%A0%20ETHICAL%20HACKER%20IN%20TRAINING%20%E2%96%A0-00ff41?style=flat-square&labelColor=000000)
 ![](https://img.shields.io/badge/-%E2%96%A0%20BREAK%20THINGS%20TO%20FIX%20THEM%20%E2%96%A0-00ff41?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/-%E2%96%A0%20FSOCIETY%20%E2%96%A0-ff0000?style=flat-square&labelColor=000000)
 
 </div>
