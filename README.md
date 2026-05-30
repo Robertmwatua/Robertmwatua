@@ -22,29 +22,26 @@
 
 <table>
 <tr>
-<td width="28%" align="center" valign="middle">
+<td width="22%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/d31wIu3HgY048MKs/giphy.gif" width="160" alt="Mr Robot"/>
+<img src="https://media.giphy.com/media/d31wIu3HgY048MKs/giphy.gif" width="130" alt="Mr Robot"/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=180&lines=Hello+friend.;I+know+who+you+are.;We+are+fsociety." alt="gif text"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=150&lines=Hello+friend.;We+are+fsociety.;Control+is+an+illusion." alt="gif text"/>
 
 </td>
-<td width="72%" valign="middle">
+<td width="78%" valign="middle">
 
 ```console
 root@R0b3rt0:~# cat /etc/identity
-┌──────────────────────────────────────────────┐
-│  HANDLE   →  R0b3rt0                         │
-│  NAME     →  Robert Mwatua                   │
-│  ROLE     →  Offensive Security Student      │
-│  STUDENT  →  CIT-222-096/2025                │
-│  NODE     →  Nairobi, Kenya 🇰🇪               │
-│  OS       →  Kali Linux rolling              │
-│  AWARD    →  🏆 Youth STEM Innovation 2026   │
-│  MOTTO    →  "You'll sleep when you die."    │
-└──────────────────────────────────────────────┘
-[✓] IDS disabled.    [✓] Firewall bypassed.
-[✓] Logs cleared.    [✓] Hello friend. Ready.
+  HANDLE  →  R0b3rt0
+  NAME    →  Robert Mwatua
+  ROLE    →  Offensive Security Operator
+  NODE    →  Nairobi, Kenya 🇰🇪
+  OS      →  Kali Linux rolling
+  AWARD   →  🏆 Youth STEM Innovation 2026 — STRI
+  MOTTO   →  "You'll sleep when you die."
+
+[✓] IDS disabled. Firewall bypassed. Hello friend.
 ```
 
 </td>
@@ -61,35 +58,29 @@ root@R0b3rt0:~# cat /proc/attack_vectors
 <tr>
 <td width="50%">
 
-```python
+```
 # VECTOR_01 :: WEB EXPLOITATION
-# ─────────────────────────────
-MODULES = [
-  "XSS          → 18 injection contexts",
-  "WAF_EVASION  → blind callbacks active",
-  "SSTI/IDOR    → server-side template pwn",
-  "SQLi         → automated + manual",
-  "WORDPRESS    → plugin chain attacks",
-  "RATE_LIMIT   → bypass & state abuse",
-]
-STATUS = "ARMED"
+[✓] XSS          18 injection contexts
+[✓] WAF_EVASION  blind callbacks active
+[✓] SSTI/IDOR    server-side template pwn
+[✓] SQLi         automated + manual
+[✓] WORDPRESS    plugin chain attacks
+[✓] RATE_LIMIT   bypass & state abuse
+STATUS = ARMED
 ```
 
 </td>
 <td width="50%">
 
-```python
+```
 # VECTOR_02 :: ACTIVE DIRECTORY
-# ─────────────────────────────
-MODULES = [
-  "KERBEROAST   → SPN ticket harvesting",
-  "DCSYNC       → credential replication",
-  "GOLDEN_TKT   → forged TGT persistence",
-  "BLOODHOUND   → attack path mapping",
-  "PTH/PTT      → lateral movement",
-  "PRIV_ESC     → domain domination",
-]
-STATUS = "ARMED"
+[✓] KERBEROAST   SPN ticket harvesting
+[✓] DCSYNC       credential replication
+[✓] GOLDEN_TKT   forged TGT persistence
+[✓] BLOODHOUND   attack path mapping
+[✓] PTH/PTT      lateral movement
+[✓] PRIV_ESC     domain domination
+STATUS = ARMED
 ```
 
 </td>
@@ -97,35 +88,29 @@ STATUS = "ARMED"
 <tr>
 <td width="50%">
 
-```python
+```
 # VECTOR_03 :: NETWORK & RECON
-# ─────────────────────────────
-MODULES = [
-  "NMAP         → multi-vector scanning",
-  "GOBUSTER     → dir & vhost brute",
-  "NIKTO        → web server audit",
-  "NETCAT       → bind/reverse shells",
-  "FLIPPER_ZERO → RF/NFC/hardware",
-  "OSINT        → asset discovery",
-]
-STATUS = "ARMED"
+[✓] NMAP         multi-vector scanning
+[✓] GOBUSTER     dir & vhost brute
+[✓] NIKTO        web server audit
+[✓] NETCAT       bind/reverse shells
+[✓] FLIPPER_ZERO RF/NFC/hardware ops
+[✓] OSINT        asset discovery
+STATUS = ARMED
 ```
 
 </td>
 <td width="50%">
 
-```python
+```
 # VECTOR_04 :: FORENSICS & RE
-# ─────────────────────────────
-MODULES = [
-  "PICOCTF_2026 → full spectrum active",
-  "SLEUTHKIT    → disk image analysis",
-  "TSHARK       → pcap deep inspection",
-  "GHIDRA       → ELF & PE reversing",
-  "CRYPTANALYSIS→ RSA factor + AES-CBC",
-  "TIMESTOMP    → MAC timeline attacks",
-]
-STATUS = "ARMED"
+[✓] PICOCTF_2026 full spectrum active
+[✓] SLEUTHKIT    disk image analysis
+[✓] TSHARK       pcap deep inspection
+[✓] GHIDRA       ELF & PE reversing
+[✓] CRYPTO       RSA factor + AES-CBC
+[✓] TIMESTOMP    MAC timeline attacks
+STATUS = ARMED
 ```
 
 </td>
@@ -139,18 +124,17 @@ root@R0b3rt0:~# ps aux --sort=-%cpu | grep R0b3rt0
 ```
 
 ```
-USER        PID   %CPU  %MEM  STATUS    PROCESS
-R0b3rt0     001   92%   HIGH  RUNNING   web_exploitation.py
-R0b3rt0     002   88%   HIGH  RUNNING   network_recon.sh
-R0b3rt0     003   80%   MED   RUNNING   active_directory_attacks.py
-R0b3rt0     004   75%   MED   RUNNING   disk_forensics.sh
-R0b3rt0     005   75%   MED   RUNNING   network_forensics.py
-R0b3rt0     006   70%   MED   RUNNING   binary_reversing.py
-R0b3rt0     007   65%   LOW   RUNNING   cryptanalysis.py
-R0b3rt0     008   65%   LOW   RUNNING   typescript_fullstack.ts
-R0b3rt0     009   60%   LOW   RUNNING   steganography.py
-R0b3rt0     010   90%   HIGH  RUNNING   python_scripting.py
-R0b3rt0     011   85%   HIGH  RUNNING   bash_automation.sh
+USER       PID  %CPU  %MEM  STATUS    PROCESS
+R0b3rt0    001   92%  HIGH  RUNNING   web_exploitation.py
+R0b3rt0    002   88%  HIGH  RUNNING   network_recon.sh
+R0b3rt0    003   80%  MED   RUNNING   active_directory.py
+R0b3rt0    004   75%  MED   RUNNING   disk_forensics.sh
+R0b3rt0    005   75%  MED   RUNNING   network_forensics.py
+R0b3rt0    006   70%  MED   RUNNING   binary_reversing.py
+R0b3rt0    007   65%  LOW   RUNNING   cryptanalysis.py
+R0b3rt0    008   65%  LOW   RUNNING   typescript_dev.ts
+R0b3rt0    009   90%  HIGH  RUNNING   python_scripting.py
+R0b3rt0    010   85%  HIGH  RUNNING   bash_automation.sh
 ```
 
 ---
@@ -181,12 +165,12 @@ root@R0b3rt0:~# ls /usr/local/bin/toolkit --verbose
 ```
 
 ```diff
-+ [STABLE]   xss-generator           → 18 contexts · WAF evasion · blind XSS · pure Python stdlib
-! [TESTING]  rate-limit-bypass-tester → Stateful firewall & API rate-restriction bypass auditor
-+ [STABLE]   nmap-scanning-tool      → Automated multi-vector port scanning & asset discovery
-+ [STABLE]   sqlmap-x                → Extended SQLi toolkit for automated DB fingerprinting
++ [STABLE]   xss-generator           → 18 contexts · WAF evasion · blind XSS
+! [TESTING]  rate-limit-bypass-tester → Stateful firewall & API rate bypass
++ [STABLE]   nmap-scanning-tool      → Multi-vector port scanning & discovery
++ [STABLE]   sqlmap-x                → Extended SQLi automated DB fingerprint
 ~ [ACTIVE]   darkbyte-bot            → Python automation bot — active dev
-~ [ACTIVE]   farmguard               → TypeScript full-stack platform — active dev
+~ [ACTIVE]   farmguard               → TypeScript full-stack — active dev
 ```
 
 <div align="center">
@@ -253,15 +237,15 @@ root@R0b3rt0:~# grep -r "quotes" /etc/hacker.conf --color=always
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&multiline=false&width=750&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22+%E2%80%94+Kali+Linux" alt="quote1"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=00FF41&center=true&vCenter=true&width=720&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22+%E2%80%94+Kali+Linux" alt="q1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=750&lines=%22Hacking+is+not+a+crime.+It%27s+an+art+form.%22+%E2%80%94+Elliot+Alderson" alt="quote2"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=39FF14&center=true&vCenter=true&width=720&lines=%22Hacking+is+not+a+crime.+It%27s+an+art+form.%22+%E2%80%94+Elliot+Alderson" alt="q2"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=7FFF00&center=true&vCenter=true&width=750&lines=%22Give+a+man+a+0day+and+he+pwns+for+a+day...+teach+a+man+to+hack+and+he+pwns+for+life.%22" alt="quote3"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=7FFF00&center=true&vCenter=true&width=720&lines=%22Give+a+man+a+0day+and+he+pwns+for+a+day...+teach+a+man+to+hack+and+he+pwns+for+life.%22" alt="q3"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=750&lines=%22Security+is+not+a+product.+It%27s+a+process.%22+%E2%80%94+Bruce+Schneier" alt="quote4"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=00FF41&center=true&vCenter=true&width=720&lines=%22Security+is+not+a+product.+It%27s+a+process.%22+%E2%80%94+Bruce+Schneier" alt="q4"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=750&lines=%22In+a+world+of+zeros+and+ones%2C+be+the+one+who+controls+both.%22+%E2%80%94+R0b3rt0" alt="quote5"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=39FF14&center=true&vCenter=true&width=720&lines=%22In+a+world+of+zeros+and+ones%2C+be+the+one+who+controls+both.%22+%E2%80%94+R0b3rt0" alt="q5"/>
 
 </div>
 
@@ -274,16 +258,12 @@ root@R0b3rt0:~# nmap -sV --open contact_vectors
 <div align="center">
 
 ```
-Starting Nmap scan on target: R0b3rt0...
-
-PORT     STATE  SERVICE   VERSION
-──────────────────────────────────────────────────
+PORT     STATE  SERVICE   TARGET
 22/tcp   open   github  → github.com/Robertmwatua
-443/tcp  open   https   → app.hackthebox.com/profile/Robertmwatua
+443/tcp  open   htb     → app.hackthebox.com/profile/Robertmwatua
 8080/tcp open   linkedin→ linkedin.com/in/robertmwatua
-──────────────────────────────────────────────────
-Nmap done. 3/3 ports open. 0 filtered. 0 closed.
-Service detection performed. Report saved to /tmp/r0b3rt0_contact.txt
+
+3/3 ports open. 0 filtered. 0 closed.
 ```
 
 [![GitHub](https://img.shields.io/badge/GITHUB-Robertmwatua-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0a0a0a)](https://github.com/Robertmwatua)
