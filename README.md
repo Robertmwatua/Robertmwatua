@@ -98,11 +98,6 @@ root@R0b3rt0:~# curl -s https://api.metrics/v1/Robertmwatua
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Robertmwatua&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=7fff00&count_private=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertmwatua&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=7fff00&langs_count=6" width="36%"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Robertmwatua&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=006621&currStreakNum=7FFF00&sideNums=7FFF00&dates=006621" width="60%"/>
 
 <br/>
