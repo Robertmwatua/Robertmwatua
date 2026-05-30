@@ -1,28 +1,22 @@
-# Hi there, I'm R0b3rt0 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+R0B3RT0+CONNECTED...;ACCESS+GRANTED+TO+SYSTEM_01;PENETRATION+TESTER+%2F+DEV;YOU'LL+SLEEP+WHEN+YOU+DIE." alt="Typing SVG" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&width=435&lines=Cyber+Security+Enthusiast;Penetration+Tester;Python+Developer)
-
-> "You'll sleep when you die."
-
----
-
-### 🛠️ My Arsenal & Tooling
-Backend & Scripting: **Python** 🐍
-Focus Areas: **Network Scanning, Vulnerability Assessment, XSS Automation, Rate-Limit Testing** 💻
-
----
-
-### 📊 GitHub Analytics
-Here you can track my open-source contributions and activity metrics:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robertmwatua&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Robert's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertmwatua&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+<p align="center">
+<img src="https://img.shields.io/badge/OS-Kali_Linux-blue?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Network-Scanning-green?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-Red_Teaming-red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
 </p>
 
 ---
 
-### 🛡️ Most Recent Security Projects
-* **[nmap-scanning-tool](https://github.com/Robertmwatua/nmap-scanning-tool)** - Automated network reconnaissance scripts.
-* **[rate-limit-bypass-tester](https://github.com/Robertmwatua/rate-limit-bypass-tester)** - Security testing tool for rate limiting vulnerabilities.
-* **[xss-generator](https://github.com/Robertmwatua/xss-generator)** - Payload generation and automated cross-site scripting tool.
+### 🟢 `SYSTEM_INFORMATION`
+
+```javascript
+const operator = {
+    username: "Robertmwatua",
+    alias: "R0b3rt0",
+    specialization: ["Network Reconnaissance", "Web Vulnerability Research", "Python Automation"],
+    current_objective: "Developing automated exploitation frameworks",
+    motto: "You'll sleep when you die."
+};
