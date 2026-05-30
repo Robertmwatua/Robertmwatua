@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/OS-KALI_LINUX-557C94?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0a0a0a)
 ![](https://img.shields.io/badge/HTB-OPERATOR-9FEF00?style=flat-square&logo=hackthebox&logoColor=9FEF00&labelColor=0a0a0a)
 ![](https://img.shields.io/badge/CTF-COMPETITOR-ffd700?style=flat-square&labelColor=0a0a0a)
-
+<br/>
 [![Followers](https://img.shields.io/github/followers/Robertmwatua?style=flat-square&color=00ff41&labelColor=0a0a0a&label=followers)](https://github.com/Robertmwatua)
 ![Views](https://komarev.com/ghpvc/?username=Robertmwatua&style=flat-square&color=00ff41&label=recon+hits)
 [![Stars](https://img.shields.io/github/stars/Robertmwatua?style=flat-square&color=ffd700&labelColor=0a0a0a&label=stars)](https://github.com/Robertmwatua?tab=repositories)
@@ -22,28 +22,29 @@
 
 <table>
 <tr>
-<td width="30%" align="center" valign="middle">
+<td width="28%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/d31wIu3HgY048MKs/giphy.gif" width="180" alt="Mr Robot"/>
-<br/><sub><i>"Hello friend."</i></sub>
+<img src="https://media.giphy.com/media/d31wIu3HgY048MKs/giphy.gif" width="160" alt="Mr Robot"/>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&duration=2200&pause=800&color=00FF41&center=true&vCenter=true&width=180&lines=Hello+friend.;I+know+who+you+are.;We+are+fsociety." alt="gif text"/>
 
 </td>
-<td width="70%" valign="middle">
+<td width="72%" valign="middle">
 
 ```console
 root@R0b3rt0:~# cat /etc/identity
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  HANDLE   →  R0b3rt0
-  NAME     →  Robert Mwatua
-  ROLE     →  Offensive Security Student
-  STUDENT  →  CIT-222-096/2025
-  NODE     →  Nairobi, Kenya 🇰🇪
-  OS       →  Kali Linux rolling
-  AWARD    →  🏆 Youth STEM Innovation 2026 — STRI
-  MOTTO    →  "You'll sleep when you die."
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[✓] IDS disabled. Firewall bypassed.
-[✓] Hello friend. Initializing...
+┌──────────────────────────────────────────────┐
+│  HANDLE   →  R0b3rt0                         │
+│  NAME     →  Robert Mwatua                   │
+│  ROLE     →  Offensive Security Student      │
+│  STUDENT  →  CIT-222-096/2025                │
+│  NODE     →  Nairobi, Kenya 🇰🇪               │
+│  OS       →  Kali Linux rolling              │
+│  AWARD    →  🏆 Youth STEM Innovation 2026   │
+│  MOTTO    →  "You'll sleep when you die."    │
+└──────────────────────────────────────────────┘
+[✓] IDS disabled.    [✓] Firewall bypassed.
+[✓] Logs cleared.    [✓] Hello friend. Ready.
 ```
 
 </td>
@@ -52,35 +53,43 @@ root@R0b3rt0:~# cat /etc/identity
 
 ---
 
-## `> cat /proc/attack_vectors`
+```
+root@R0b3rt0:~# cat /proc/attack_vectors
+```
 
 <table>
 <tr>
 <td width="50%">
 
-```
-VECTOR #1 ── WEB EXPLOITATION
-──────────────────────────────
-[✓] XSS — 18 injection contexts
-[✓] WAF evasion & blind callbacks
-[✓] SSTI / IDOR / SQLi
-[✓] WordPress & Next.js vectors
-[✓] Bug bounty — IDOR, headers
-[✓] Rate-limit bypass auditing
+```python
+# VECTOR_01 :: WEB EXPLOITATION
+# ─────────────────────────────
+MODULES = [
+  "XSS          → 18 injection contexts",
+  "WAF_EVASION  → blind callbacks active",
+  "SSTI/IDOR    → server-side template pwn",
+  "SQLi         → automated + manual",
+  "WORDPRESS    → plugin chain attacks",
+  "RATE_LIMIT   → bypass & state abuse",
+]
+STATUS = "ARMED"
 ```
 
 </td>
 <td width="50%">
 
-```
-VECTOR #2 ── ACTIVE DIRECTORY
-──────────────────────────────
-[✓] Kerberoasting
-[✓] DCSync & Golden Ticket
-[✓] BloodHound enumeration
-[✓] Impacket suite
-[✓] Pass-the-Hash / Ticket
-[✓] Domain privilege escalation
+```python
+# VECTOR_02 :: ACTIVE DIRECTORY
+# ─────────────────────────────
+MODULES = [
+  "KERBEROAST   → SPN ticket harvesting",
+  "DCSYNC       → credential replication",
+  "GOLDEN_TKT   → forged TGT persistence",
+  "BLOODHOUND   → attack path mapping",
+  "PTH/PTT      → lateral movement",
+  "PRIV_ESC     → domain domination",
+]
+STATUS = "ARMED"
 ```
 
 </td>
@@ -88,29 +97,35 @@ VECTOR #2 ── ACTIVE DIRECTORY
 <tr>
 <td width="50%">
 
-```
-VECTOR #3 ── NETWORK & RECON
-──────────────────────────────
-[✓] Nmap multi-vector scanning
-[✓] Gobuster / Nikto / Netcat
-[✓] Service fingerprinting
-[✓] Asset discovery frameworks
-[✓] Missing security headers
-[✓] Flipper Zero — RF/hardware
+```python
+# VECTOR_03 :: NETWORK & RECON
+# ─────────────────────────────
+MODULES = [
+  "NMAP         → multi-vector scanning",
+  "GOBUSTER     → dir & vhost brute",
+  "NIKTO        → web server audit",
+  "NETCAT       → bind/reverse shells",
+  "FLIPPER_ZERO → RF/NFC/hardware",
+  "OSINT        → asset discovery",
+]
+STATUS = "ARMED"
 ```
 
 </td>
 <td width="50%">
 
-```
-VECTOR #4 ── FORENSICS & RE
-──────────────────────────────
-[✓] picoCTF 2026 — Full spectrum
-[✓] MAC timeline / timestomping
-[✓] Disk images — Sleuthkit
-[✓] Pcap analysis — tshark
-[✓] RSA factoring & AES-CBC
-[✓] ELF & PE binary reversing
+```python
+# VECTOR_04 :: FORENSICS & RE
+# ─────────────────────────────
+MODULES = [
+  "PICOCTF_2026 → full spectrum active",
+  "SLEUTHKIT    → disk image analysis",
+  "TSHARK       → pcap deep inspection",
+  "GHIDRA       → ELF & PE reversing",
+  "CRYPTANALYSIS→ RSA factor + AES-CBC",
+  "TIMESTOMP    → MAC timeline attacks",
+]
+STATUS = "ARMED"
 ```
 
 </td>
@@ -119,27 +134,51 @@ VECTOR #4 ── FORENSICS & RE
 
 ---
 
-## `> ls /achievements --sort=elite`
+```
+root@R0b3rt0:~# ps aux --sort=-%cpu | grep R0b3rt0
+```
+
+```
+USER        PID   %CPU  %MEM  STATUS    PROCESS
+R0b3rt0     001   92%   HIGH  RUNNING   web_exploitation.py
+R0b3rt0     002   88%   HIGH  RUNNING   network_recon.sh
+R0b3rt0     003   80%   MED   RUNNING   active_directory_attacks.py
+R0b3rt0     004   75%   MED   RUNNING   disk_forensics.sh
+R0b3rt0     005   75%   MED   RUNNING   network_forensics.py
+R0b3rt0     006   70%   MED   RUNNING   binary_reversing.py
+R0b3rt0     007   65%   LOW   RUNNING   cryptanalysis.py
+R0b3rt0     008   65%   LOW   RUNNING   typescript_fullstack.ts
+R0b3rt0     009   60%   LOW   RUNNING   steganography.py
+R0b3rt0     010   90%   HIGH  RUNNING   python_scripting.py
+R0b3rt0     011   85%   HIGH  RUNNING   bash_automation.sh
+```
+
+---
+
+```
+root@R0b3rt0:~# ls /achievements --sort=elite -la
+```
 
 <div align="center">
 
-| 🏆 | 🎯 | 🔐 | 🛡️ |
-|:---:|:---:|:---:|:---:|
-| **YOUTH STEM 2026** | **HACK THE BOX** | **picoCTF 2026** | **De{c0}dE 2026** |
-| STRI Winner — Kenya | Operator rank | Web·Forensics·Crypto·RE | Safaricom |
-| ![](https://img.shields.io/badge/-ELITE-ffd700?style=flat-square&labelColor=0a0a0a) | ![](https://img.shields.io/badge/-ACTIVE-00ff41?style=flat-square&labelColor=0a0a0a) | ![](https://img.shields.io/badge/-ACTIVE-00ff41?style=flat-square&labelColor=0a0a0a) | ![](https://img.shields.io/badge/-DONE-00bfff?style=flat-square&labelColor=0a0a0a) |
-
-| 🥇 | 🦈 | 💡 | 📡 |
-|:---:|:---:|:---:|:---:|
-| **GITHUB YOLO** | **PULL SHARK** | **COLALAB** | **SK-CERT** |
-| Merged without review | PRs merged × multi | Visuolearn — shipped | t3rmCTF multi-domain |
-| ![](https://img.shields.io/badge/-UNLOCKED-9FEF00?style=flat-square&labelColor=0a0a0a) | ![](https://img.shields.io/badge/-UNLOCKED-9FEF00?style=flat-square&labelColor=0a0a0a) | ![](https://img.shields.io/badge/-SHIPPED-ffd700?style=flat-square&labelColor=0a0a0a) | ![](https://img.shields.io/badge/-ACTIVE-00ff41?style=flat-square&labelColor=0a0a0a) |
+| `[PROCESS]` | `[ACHIEVEMENT]` | `[DETAIL]` | `[EXIT_CODE]` |
+|:-----------:|:---------------:|:----------:|:-------------:|
+| 🏆 | **YOUTH STEM INNOVATION 2026** | STRI Winner — Kenya | ![](https://img.shields.io/badge/0-ELITE-ffd700?style=flat-square&labelColor=0a0a0a) |
+| 🎯 | **HACK THE BOX — OPERATOR** | Live machine exploitation | ![](https://img.shields.io/badge/0-ACTIVE-00ff41?style=flat-square&labelColor=0a0a0a) |
+| 🔐 | **picoCTF 2026** | Web · Forensics · Crypto · RE | ![](https://img.shields.io/badge/0-ACTIVE-00ff41?style=flat-square&labelColor=0a0a0a) |
+| 🛡️ | **De{c0}dE 2026 — Safaricom** | CyberDefenderSnake | ![](https://img.shields.io/badge/0-DONE-00bfff?style=flat-square&labelColor=0a0a0a) |
+| 🥇 | **GITHUB YOLO** | Merged without review | ![](https://img.shields.io/badge/0-UNLOCKED-9FEF00?style=flat-square&labelColor=0a0a0a) |
+| 🦈 | **PULL SHARK** | PRs merged × multiple | ![](https://img.shields.io/badge/0-UNLOCKED-9FEF00?style=flat-square&labelColor=0a0a0a) |
+| 💡 | **COLALAB HACKATHON** | Visuolearn — shipped | ![](https://img.shields.io/badge/0-SHIPPED-ffd700?style=flat-square&labelColor=0a0a0a) |
+| 📡 | **SK-CERT · t3rmCTF** | Multi-domain operator | ![](https://img.shields.io/badge/0-ACTIVE-00ff41?style=flat-square&labelColor=0a0a0a) |
 
 </div>
 
 ---
 
-## `> ls /usr/local/bin/toolkit`
+```
+root@R0b3rt0:~# ls /usr/local/bin/toolkit --verbose
+```
 
 ```diff
 + [STABLE]   xss-generator           → 18 contexts · WAF evasion · blind XSS · pure Python stdlib
@@ -152,8 +191,8 @@ VECTOR #4 ── FORENSICS & RE
 
 <div align="center">
 
-| Status | Repo | Stars | Forks | Lang |
-|--------|------|-------|-------|------|
+| `status` | `repo` | `stars` | `forks` | `lang` |
+|----------|--------|---------|---------|--------|
 |![](https://img.shields.io/badge/-STABLE-00ff41?style=flat-square&labelColor=000)|[**xss-generator**](https://github.com/Robertmwatua/xss-generator)|![](https://img.shields.io/github/stars/Robertmwatua/xss-generator?style=flat-square&color=ffd700&labelColor=000)|![](https://img.shields.io/github/forks/Robertmwatua/xss-generator?style=flat-square&color=00bfff&labelColor=000)|![](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=00ff41)|
 |![](https://img.shields.io/badge/-STABLE-00ff41?style=flat-square&labelColor=000)|[**nmap-scanning-tool**](https://github.com/Robertmwatua/nmap-scanning-tool)|![](https://img.shields.io/github/stars/Robertmwatua/nmap-scanning-tool?style=flat-square&color=ffd700&labelColor=000)|![](https://img.shields.io/github/forks/Robertmwatua/nmap-scanning-tool?style=flat-square&color=00bfff&labelColor=000)|![](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=00ff41)|
 |![](https://img.shields.io/badge/-TESTING-ffd700?style=flat-square&labelColor=000)|[**rate-limit-bypass-tester**](https://github.com/Robertmwatua/rate-limit-bypass-tester)|![](https://img.shields.io/github/stars/Robertmwatua/rate-limit-bypass-tester?style=flat-square&color=ffd700&labelColor=000)|![](https://img.shields.io/github/forks/Robertmwatua/rate-limit-bypass-tester?style=flat-square&color=00bfff&labelColor=000)|![](https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=00ff41)|
@@ -165,61 +204,9 @@ VECTOR #4 ── FORENSICS & RE
 
 ---
 
-## `> cat /proc/skillset`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Languages**
 ```
-Python     ████████████████████░  90%
-Bash       ████████████████████░  85%
-TypeScript ██████████████░░░░░░  65%
-HTML/CSS   █████████████░░░░░░░  60%
+root@R0b3rt0:~# curl -s https://api.metrics/v1/Robertmwatua
 ```
-**Offensive Security**
-```
-Web Exploit  █████████████████████  92%
-Net Recon    ████████████████████░  88%
-AD Attacks   ██████████████████░░░  80%
-Rev Eng      ███████████████░░░░░░  70%
-```
-
-</td>
-<td width="50%" valign="top">
-
-**Forensics & Analysis**
-```
-Disk Forensics    ████████████████░░░  75%
-Network Forensics ████████████████░░░  75%
-Cryptanalysis     █████████████░░░░░░  65%
-Steganography     ████████████░░░░░░░  60%
-```
-**Tools**
-
-![Kali](https://img.shields.io/badge/-Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-00ff41?style=flat-square&labelColor=0a0a0a)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&labelColor=0a0a0a)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![BloodHound](https://img.shields.io/badge/-BloodHound-8B0000?style=flat-square&labelColor=0a0a0a)
-![Impacket](https://img.shields.io/badge/-Impacket-00bfff?style=flat-square&labelColor=0a0a0a)
-![Gobuster](https://img.shields.io/badge/-Gobuster-00ff41?style=flat-square&labelColor=0a0a0a)
-![SQLMap](https://img.shields.io/badge/-SQLMap-ffd700?style=flat-square&labelColor=0a0a0a)
-![Ghidra](https://img.shields.io/badge/-Ghidra-ff4444?style=flat-square&labelColor=0a0a0a)
-![Sleuthkit](https://img.shields.io/badge/-Sleuthkit-006621?style=flat-square&labelColor=0a0a0a)
-![Flipper](https://img.shields.io/badge/-Flipper_Zero-FF6B00?style=flat-square&labelColor=0a0a0a)
-![tshark](https://img.shields.io/badge/-tshark-1679A7?style=flat-square&labelColor=0a0a0a)
-![Nikto](https://img.shields.io/badge/-Nikto-ff4444?style=flat-square&labelColor=0a0a0a)
-
-</td>
-</tr>
-</table>
-
----
-
-## `> curl -s https://api.metrics/v1/Robertmwatua`
 
 <div align="center">
 
@@ -236,7 +223,9 @@ Steganography     ████████████░░░░░░░  60%
 
 ---
 
-## `> tail -f /var/log/commits.log`
+```
+root@R0b3rt0:~# tail -f /var/log/commits.log
+```
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Robertmwatua&bg_color=0d0d0d&color=00ff41&line=00ff41&point=39ff14&area=true&area_color=001a00&hide_border=true&custom_title=R0b3rt0%20%7C%20Commit%20Activity" width="100%"/>
@@ -244,7 +233,9 @@ Steganography     ████████████░░░░░░░  60%
 
 ---
 
-## `> ./snake --palette=matrix`
+```
+root@R0b3rt0:~# ./snake --palette=matrix --execute
+```
 
 <div align="center">
 <picture>
@@ -256,43 +247,43 @@ Steganography     ████████████░░░░░░░  60%
 
 ---
 
-## `> grep -r "quotes" /etc/hacker.conf`
+```
+root@R0b3rt0:~# grep -r "quotes" /etc/hacker.conf --color=always
+```
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  "The quieter you become, the more you can hear."         — Kali Linux      │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  "Hacking is not a crime. It's an art form."              — Elliot Alderson  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  "Give a man a 0day and he pwns for a day.                                  │
-│   Teach a man to hack and he pwns for life."              — fsociety         │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  "In a world of zeros and ones, be the one who controls both."  — R0b3rt0   │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  "Security is not a product. It's a process."             — Bruce Schneier  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  "To hack is to explore the limits of what is possible."  — Steven Levy     │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&multiline=false&width=750&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22+%E2%80%94+Kali+Linux" alt="quote1"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=750&lines=%22Hacking+is+not+a+crime.+It%27s+an+art+form.%22+%E2%80%94+Elliot+Alderson" alt="quote2"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=7FFF00&center=true&vCenter=true&width=750&lines=%22Give+a+man+a+0day+and+he+pwns+for+a+day...+teach+a+man+to+hack+and+he+pwns+for+life.%22" alt="quote3"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=750&lines=%22Security+is+not+a+product.+It%27s+a+process.%22+%E2%80%94+Bruce+Schneier" alt="quote4"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1200&color=39FF14&center=true&vCenter=true&width=750&lines=%22In+a+world+of+zeros+and+ones%2C+be+the+one+who+controls+both.%22+%E2%80%94+R0b3rt0" alt="quote5"/>
 
 </div>
 
 ---
 
-## `> nmap -sV --open contact_vectors`
+```
+root@R0b3rt0:~# nmap -sV --open contact_vectors
+```
 
 <div align="center">
 
 ```
-Starting scan on R0b3rt0 [3 ports]...
+Starting Nmap scan on target: R0b3rt0...
 
-22/tcp   OPEN   github    →  github.com/Robertmwatua
-443/tcp  OPEN   https     →  app.hackthebox.com/profile/Robertmwatua
-8080/tcp OPEN   linkedin  →  linkedin.com/in/robertmwatua
-
+PORT     STATE  SERVICE   VERSION
+──────────────────────────────────────────────────
+22/tcp   open   github  → github.com/Robertmwatua
+443/tcp  open   https   → app.hackthebox.com/profile/Robertmwatua
+8080/tcp open   linkedin→ linkedin.com/in/robertmwatua
+──────────────────────────────────────────────────
 Nmap done. 3/3 ports open. 0 filtered. 0 closed.
+Service detection performed. Report saved to /tmp/r0b3rt0_contact.txt
 ```
 
 [![GitHub](https://img.shields.io/badge/GITHUB-Robertmwatua-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0a0a0a)](https://github.com/Robertmwatua)
