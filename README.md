@@ -51,6 +51,26 @@ root@R0b3rt0:~# cat /etc/identity
 ---
 
 ```
+root@R0b3rt0:~# cat /proc/current_mission
+```
+
+```console
+┌─[ ACTIVE OPERATIONS ]──────────────────────────────────┐
+│                                                         │
+│  🎯 CTF       →  Hack The Box — active machines        │
+│  🔬 RESEARCH  →  Web exploitation & AD attack chains   │
+│  🛠️  BUILD     →  darkbyte-bot · farmguard platform    │
+│  📖 STUDYING  →  OSCP prep · OffSec methodology        │
+│  🌍 GOAL      →  Bug bounty · Security researcher      │
+│                                                         │
+│  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75% — always in progress     │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+---
+
+```
 root@R0b3rt0:~# ls /achievements --sort=elite -la
 ```
 
