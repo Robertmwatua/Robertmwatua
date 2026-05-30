@@ -1,138 +1,157 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=R0B3RT0;Robert+Mwatua;Offensive+Security+Operator;You%27ll+sleep+when+you+die." alt="Typing SVG" />
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=header&text=R0B3RT0&fontSize=60&fontColor=0d0d0d&fontAlignY=38&desc=Robert%20Mwatua%20%7C%20Offensive%20Security%20Operator&descAlignY=62&descColor=0d0d0d&animation=fadeIn" />
 
-<!-- SUBTITLE BADGES ROW -->
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=Offensive+Security+Student+%7C+Nairobi+%F0%9F%87%B0%F0%9F%87%AA;Web+Exploitation+%7C+Network+Recon+%7C+AD+Attacks;picoCTF+%7C+Hack+The+Box+%7C+SK-CERT+%7C+t3rmCTF;Youth+STEM+Innovation+2026+Winner+%F0%9F%8F%86;You%27ll+sleep+when+you+die." alt="Typing SVG" />
+
 <br/>
 
-![](https://img.shields.io/badge/-%F0%9F%94%92%20CYBERSECURITY-00ff41?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d&logo=hackthebox&logoColor=00ff41)
-![](https://img.shields.io/badge/-KALI%20LINUX-00ff41?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d&logo=kalilinux&logoColor=00ff41)
-![](https://img.shields.io/badge/-PYTHON-00ff41?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d&logo=python&logoColor=00ff41)
-![](https://img.shields.io/badge/-%F0%9F%87%B0%F0%9F%87%AA%20NAIROBI-00ff41?style=for-the-badge&labelColor=0d0d0d&color=0d0d0d)
+<!-- STATUS BADGES -->
+![](https://img.shields.io/badge/STATUS-ACTIVE%20OPERATOR-00ff41?style=for-the-badge&labelColor=0d0d0d)
+![](https://img.shields.io/badge/OS-KALI%20LINUX-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d0d0d)
+![](https://img.shields.io/badge/HTB-ACTIVE-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0d0d0d)
+![](https://img.shields.io/badge/CTF-COMPETITOR-ffd700?style=for-the-badge&labelColor=0d0d0d)
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/Robertmwatua?style=flat-square&color=00ff41&labelColor=0d0d0d&label=followers)](https://github.com/Robertmwatua)
 ![Profile Views](https://komarev.com/ghpvc/?username=Robertmwatua&style=flat-square&color=00ff41&label=profile+views)
-[![GitHub stars](https://img.shields.io/github/stars/Robertmwatua?style=flat-square&color=ffd700&labelColor=0d0d0d&label=total+stars)](https://github.com/Robertmwatua?tab=repositories)
+[![Stars](https://img.shields.io/github/stars/Robertmwatua?style=flat-square&color=ffd700&labelColor=0d0d0d&label=total+stars)](https://github.com/Robertmwatua?tab=repositories)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%"/>
 
 ## `> whoami`
 
-```
-Handle    :  R0b3rt0
-Real Name :  Robert Mwatua
-Role      :  Offensive Security Student | CIT-222-096/2025
-Location  :  Nairobi, Kenya 🇰🇪
-OS        :  Kali Linux
-Motto     :  You'll sleep when you die.
-```
+<table>
+<tr><td><b>🔖 Handle</b></td><td><code>R0b3rt0</code></td></tr>
+<tr><td><b>👤 Real Name</b></td><td>Robert Mwatua</td></tr>
+<tr><td><b>🎓 Role</b></td><td>Offensive Security Student · CIT-222-096/2025</td></tr>
+<tr><td><b>📍 Location</b></td><td>Nairobi, Kenya 🇰🇪</td></tr>
+<tr><td><b>💻 OS</b></td><td>Kali Linux</td></tr>
+<tr><td><b>💬 Motto</b></td><td><i>"You'll sleep when you die."</i></td></tr>
+</table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%"/>
 
 ## `> cat /proc/attack_vectors`
 
-```
-[+] Web Application Exploitation & XSS Payload Engineering
-[+] Network Reconnaissance & Vulnerability Assessment
-[+] Active Directory Attacks  ──  Kerberoasting · DCSync · Golden Ticket
-[+] CTF Competitions  ──  picoCTF · Hack The Box · SK-CERT · t3rmCTF
-[+] Forensics · Reverse Engineering · Binary Analysis
-[+] Automated Exploit Generation & Rate-Limit Evasion
-[+] WordPress Security & Bug Bounty Research
-```
+> 🔴 **Active Attack Surface**
 
----
+| Vector | Tools |
+|--------|-------|
+| 🕸️ **Web App Exploitation & XSS** | Burp Suite · custom payloads · WAF evasion |
+| 📡 **Network Recon & Vuln Assessment** | Nmap · Nikto · Gobuster · Netcat |
+| 🏰 **Active Directory Attacks** | BloodHound · Impacket · Kerberoasting · DCSync · Golden Ticket |
+| 🚩 **CTF Competitions** | picoCTF · Hack The Box · SK-CERT · t3rmCTF |
+| 🔬 **Forensics & Reverse Engineering** | Sleuthkit · tshark · Ghidra · strings |
+| 🤖 **Exploit Automation** | Custom Python scripts · rate-limit bypass · fuzzing |
+| 🐛 **Bug Bounty & WordPress** | IDOR · email enum · header injection · SSTI |
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%"/>
 
 ## `> ls -la /achievements`
 
-```
-[ELITE]   🏆  Youth STEM Innovation Award 2026  ──  STRI Winner
-[BADGE]   🥇  GitHub YOLO Achievement
-[BADGE]   🦈  GitHub Pull Shark Achievement
-[ACTIVE]  🎯  Hack The Box  ──  Active Operator
-[ACTIVE]  🔐  picoCTF 2026  ──  Web · Forensics · Crypto · Reversing · Pwn
-[ACTIVE]  🛡️  Safaricom De{c0}dE 2026  ──  CyberDefenderSnake
-[ACTIVE]  💡  Colalab Hackathon  ──  Visuolearn (Knowledge Graph Tool)
-```
+<div align="center">
 
-> 🌍 **Youth STEM Innovation 2026 — STRI Winner** · Recognized for excellence in STEM innovation among youth in Kenya.
+| 🏆 | Achievement | Details |
+|----|-------------|---------|
+| 🥇 | **Youth STEM Innovation 2026 — STRI Winner** | Recognized for excellence in STEM innovation among Kenyan youth |
+| 🎖️ | **GitHub YOLO** | Merged a PR without a review |
+| 🦈 | **GitHub Pull Shark** | Opened pull requests that got merged |
+| 🎯 | **Hack The Box Active** | Live machine exploitation |
+| 🔐 | **picoCTF 2026** | Web · Forensics · Crypto · RE · Pwn |
+| 🛡️ | **Safaricom De{c0}dE 2026** | CyberDefenderSnake — collision logic + AI flood-fill pathfinding |
+| 💡 | **Colalab Hackathon** | Visuolearn — knowledge graph visual topic tree tool |
+| 🔍 | **Bug Bounty Research** | ctfzone.com — IDOR · email enum · rate-limit · missing headers |
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%"/>
 
 ## `> ls -la /usr/local/bin/toolkit`
 
+<div align="center">
+
 | Status | Repository | Description | Lang |
 |--------|-----------|-------------|------|
-| `[STABLE]` | [**xss-generator**](https://github.com/Robertmwatua/xss-generator) | Context-aware XSS payload engine — WAF evasion, blind XSS callbacks, 18 injection contexts | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
-| `[STABLE]` | [**nmap-scanning-tool**](https://github.com/Robertmwatua/nmap-scanning-tool) | Automated multi-vector port scanning & asset discovery framework | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
-| `[TESTING]` | [**rate-limit-bypass-tester**](https://github.com/Robertmwatua/rate-limit-bypass-tester) | Stateful firewall & API rate restriction bypass auditing tool | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
-| `[STABLE]` | [**sqlmap-x**](https://github.com/Robertmwatua/sqlmap-x) | Extended SQL injection toolkit for automated DB fingerprinting | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
-| `[ACTIVE]` | [**darkbyte-bot**](https://github.com/Robertmwatua/darkbyte-bot) | Automation bot — Python | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
-| `[ACTIVE]` | [**farmguard**](https://github.com/Robertmwatua/farmguard) | Full-stack agricultural security tool | ![TS](https://img.shields.io/badge/-TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=00bfff) |
+| ![](https://img.shields.io/badge/-STABLE-00ff41?style=flat-square&labelColor=0d0d0d) | [**xss-generator**](https://github.com/Robertmwatua/xss-generator) | Context-aware XSS engine · WAF evasion · blind XSS · 18 injection contexts | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
+| ![](https://img.shields.io/badge/-STABLE-00ff41?style=flat-square&labelColor=0d0d0d) | [**nmap-scanning-tool**](https://github.com/Robertmwatua/nmap-scanning-tool) | Automated multi-vector port scanning & asset discovery | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
+| ![](https://img.shields.io/badge/-TESTING-ffd700?style=flat-square&labelColor=0d0d0d) | [**rate-limit-bypass-tester**](https://github.com/Robertmwatua/rate-limit-bypass-tester) | Stateful firewall & API rate restriction bypass auditing | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
+| ![](https://img.shields.io/badge/-STABLE-00ff41?style=flat-square&labelColor=0d0d0d) | [**sqlmap-x**](https://github.com/Robertmwatua/sqlmap-x) | Extended SQL injection toolkit for DB fingerprinting | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
+| ![](https://img.shields.io/badge/-ACTIVE-00bfff?style=flat-square&labelColor=0d0d0d) | [**darkbyte-bot**](https://github.com/Robertmwatua/darkbyte-bot) | Automation bot | ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=00ff41) |
+| ![](https://img.shields.io/badge/-ACTIVE-00bfff?style=flat-square&labelColor=0d0d0d) | [**farmguard**](https://github.com/Robertmwatua/farmguard) | Full-stack agricultural security tool | ![TS](https://img.shields.io/badge/-TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=00bfff) |
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%"/>
 
 ## `> cat /proc/skillset`
 
-![Python](https://img.shields.io/badge/Python-Expert-00ff41?style=flat-square&labelColor=0d0d0d)
-![Bash](https://img.shields.io/badge/Bash%20%2F%20Shell-Advanced-00ff41?style=flat-square&labelColor=0d0d0d)
-![Web Exploitation](https://img.shields.io/badge/Web%20Exploitation-Advanced-00ff41?style=flat-square&labelColor=0d0d0d)
-![Network Recon](https://img.shields.io/badge/Network%20Recon-Advanced-00ff41?style=flat-square&labelColor=0d0d0d)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-Intermediate-ffd700?style=flat-square&labelColor=0d0d0d)
-![Forensics](https://img.shields.io/badge/Forensics%20%2F%20OSINT-Intermediate-ffd700?style=flat-square&labelColor=0d0d0d)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Intermediate-ffd700?style=flat-square&labelColor=0d0d0d)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-ffd700?style=flat-square&labelColor=0d0d0d)
+<div align="center">
 
-**Tools I operate:**
+![Python](https://img.shields.io/badge/Python-Expert-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=python&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-Advanced-00ff41?style=for-the-badge&labelColor=0d0d0d&logo=gnubash&logoColor=white)
+![Web Exploitation](https://img.shields.io/badge/Web%20Exploitation-Advanced-00ff41?style=for-the-badge&labelColor=0d0d0d)
+![Network Recon](https://img.shields.io/badge/Network%20Recon-Advanced-00ff41?style=for-the-badge&labelColor=0d0d0d)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-Intermediate-ffd700?style=for-the-badge&labelColor=0d0d0d)
+![Forensics](https://img.shields.io/badge/Forensics%20%2F%20OSINT-Intermediate-ffd700?style=for-the-badge&labelColor=0d0d0d)
+![Rev Eng](https://img.shields.io/badge/Reverse%20Engineering-Intermediate-ffd700?style=for-the-badge&labelColor=0d0d0d)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-ffd700?style=for-the-badge&labelColor=0d0d0d&logo=typescript&logoColor=00bfff)
+
+<br/>
+
+**`// Tools I operate`**
 
 ![Kali](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-00ff41?style=flat-square&logoColor=white&labelColor=0d0d0d)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logoColor=white&labelColor=0d0d0d)
 ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/-Nmap-00ff41?style=flat-square&labelColor=0d0d0d)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&labelColor=0d0d0d)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![BloodHound](https://img.shields.io/badge/-BloodHound-8B0000?style=flat-square&logoColor=white&labelColor=0d0d0d)
-![Gobuster](https://img.shields.io/badge/-Gobuster-00ff41?style=flat-square&logoColor=white&labelColor=0d0d0d)
-![Nikto](https://img.shields.io/badge/-Nikto-ff4444?style=flat-square&logoColor=white&labelColor=0d0d0d)
-![SQLMap](https://img.shields.io/badge/-SQLMap-ffd700?style=flat-square&logoColor=white&labelColor=0d0d0d)
+![BloodHound](https://img.shields.io/badge/-BloodHound-8B0000?style=flat-square&labelColor=0d0d0d)
+![Gobuster](https://img.shields.io/badge/-Gobuster-00ff41?style=flat-square&labelColor=0d0d0d)
+![Nikto](https://img.shields.io/badge/-Nikto-ff4444?style=flat-square&labelColor=0d0d0d)
+![SQLMap](https://img.shields.io/badge/-SQLMap-ffd700?style=flat-square&labelColor=0d0d0d)
+![Ghidra](https://img.shields.io/badge/-Ghidra-ff4444?style=flat-square&labelColor=0d0d0d)
+![Impacket](https://img.shields.io/badge/-Impacket-00bfff?style=flat-square&labelColor=0d0d0d)
+![Flipper Zero](https://img.shields.io/badge/-Flipper%20Zero-FF6B00?style=flat-square&labelColor=0d0d0d)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Flipper Zero](https://img.shields.io/badge/-Flipper%20Zero-FF6B00?style=flat-square&logoColor=white&labelColor=0d0d0d)
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%"/>
 
 ## `> curl -s https://api.github-stats/v1/Robertmwatua`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Robertmwatua&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=7fff00&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertmwatua&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=7fff00" height="165" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Robertmwatua&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=7fff00&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robertmwatua&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=7fff00" height="165"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Robertmwatua&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=006621&currStreakNum=7FFF00&sideNums=7FFF00&dates=006621" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Robertmwatua&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=006621&currStreakNum=7FFF00&sideNums=7FFF00&dates=006621"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%"/>
 
 ## `> ./contribution_snake --execute`
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Robertmwatua/Robertmwatua/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Robertmwatua/Robertmwatua/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://github.com/Robertmwatua/Robertmwatua/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Robertmwatua/Robertmwatua/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Robertmwatua/Robertmwatua/blob/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://github.com/Robertmwatua/Robertmwatua/blob/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=2" width="100%"/>
 
 ## `> nmap -sV --open contact_vectors`
 
@@ -144,16 +163,5 @@ Motto     :  You'll sleep when you die.
 
 </div>
 
----
-
-<div align="center">
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-  [ SESSION ACTIVE ]  ·  R0B3RT0  ·  You'll sleep when you die.
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-*Ethical hacker in training. Break things to fix them.*
-
-</div>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer"/>
