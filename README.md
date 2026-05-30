@@ -171,7 +171,7 @@ PORT     STATE  SERVICE   TARGET
 
 [![GitHub](https://img.shields.io/badge/GITHUB-Robertmwatua-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0a0a0a)](https://github.com/Robertmwatua)
 [![HackTheBox](https://img.shields.io/badge/HACK_THE_BOX-R0b3rt0-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=9FEF00&labelColor=0a0a0a)](https://app.hackthebox.com/profile/Robertmwatua)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Robert_Mwatua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0a0a0a)](https://linkedin.com/in/robertmwatua)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Robert_Mwatua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0a0a0a)](https://www.linkedin.com/in/robert-mwatua-709184372/)
 
 </div>
 
