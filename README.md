@@ -120,26 +120,6 @@ STATUS = ARMED
 ---
 
 ```
-root@R0b3rt0:~# ps aux --sort=-%cpu | grep R0b3rt0
-```
-
-```
-USER       PID  %CPU  %MEM  STATUS    PROCESS
-R0b3rt0    001   92%  HIGH  RUNNING   web_exploitation.py
-R0b3rt0    002   88%  HIGH  RUNNING   network_recon.sh
-R0b3rt0    003   80%  MED   RUNNING   active_directory.py
-R0b3rt0    004   75%  MED   RUNNING   disk_forensics.sh
-R0b3rt0    005   75%  MED   RUNNING   network_forensics.py
-R0b3rt0    006   70%  MED   RUNNING   binary_reversing.py
-R0b3rt0    007   65%  LOW   RUNNING   cryptanalysis.py
-R0b3rt0    008   65%  LOW   RUNNING   typescript_dev.ts
-R0b3rt0    009   90%  HIGH  RUNNING   python_scripting.py
-R0b3rt0    010   85%  HIGH  RUNNING   bash_automation.sh
-```
-
----
-
-```
 root@R0b3rt0:~# ls /achievements --sort=elite -la
 ```
 
@@ -237,15 +217,7 @@ root@R0b3rt0:~# grep -r "quotes" /etc/hacker.conf --color=always
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=00FF41&center=true&vCenter=true&width=720&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22+%E2%80%94+Kali+Linux" alt="q1"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=39FF14&center=true&vCenter=true&width=720&lines=%22Hacking+is+not+a+crime.+It%27s+an+art+form.%22+%E2%80%94+Elliot+Alderson" alt="q2"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=7FFF00&center=true&vCenter=true&width=720&lines=%22Give+a+man+a+0day+and+he+pwns+for+a+day...+teach+a+man+to+hack+and+he+pwns+for+life.%22" alt="q3"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=00FF41&center=true&vCenter=true&width=720&lines=%22Security+is+not+a+product.+It%27s+a+process.%22+%E2%80%94+Bruce+Schneier" alt="q4"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=1500&color=39FF14&center=true&vCenter=true&width=720&lines=%22In+a+world+of+zeros+and+ones%2C+be+the+one+who+controls+both.%22+%E2%80%94+R0b3rt0" alt="q5"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&height=120&width=720&lines=%22The+quieter+you+become%2C+the+more+you+can+hear.%22+%E2%80%94+Kali+Linux;%22Hacking+is+not+a+crime.+It%27s+an+art+form.%22+%E2%80%94+Elliot+Alderson;%22Give+a+man+a+0day...+teach+a+man+to+hack+and+he+pwns+for+life.%22+%E2%80%94+fsociety;%22Security+is+not+a+product.+It%27s+a+process.%22+%E2%80%94+Bruce+Schneier;%22In+a+world+of+zeros+and+ones%2C+be+the+one+who+controls+both.%22+%E2%80%94+R0b3rt0" alt="quotes"/>
 
 </div>
 
