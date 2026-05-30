@@ -100,10 +100,6 @@ root@R0b3rt0:~# curl -s https://api.metrics/v1/Robertmwatua
 
 <img src="https://streak-stats.demolab.com?user=Robertmwatua&theme=dark&hide_border=true&background=0D0D0D&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=006621&currStreakNum=7FFF00&sideNums=7FFF00&dates=006621" width="60%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Robertmwatua&theme=matrix&no-bg=true&no-frame=true&column=4&margin-w=6" width="100%"/>
-
 </div>
 
 ---
