@@ -33,40 +33,22 @@
 
 ```console
 root@R0b3rt0:~# cat /etc/identity
-  HANDLE  →  R0b3rt0
-  NAME    →  Robert Mwatua
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  WHO     →  Robert Mwatua // R0b3rt0
   ROLE    →  Offensive Security Operator
   NODE    →  Nairobi, Kenya 🇰🇪
   OS      →  Kali Linux rolling
+  ARENA   →  HTB · picoCTF · SK-CERT · t3rmCTF
   AWARD   →  🏆 Youth STEM Innovation 2026 — STRI
+  TARGET  →  Bug bounty · OSCP · Security Research
   MOTTO   →  "You'll sleep when you die."
-
-[✓] IDS disabled. Firewall bypassed. Hello friend.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[✓] Recon complete. No traces. Hello friend.
 ```
 
 </td>
 </tr>
 </table>
-
----
-
-```
-root@R0b3rt0:~# cat /proc/current_mission
-```
-
-```console
-┌─[ ACTIVE OPERATIONS ]──────────────────────────────────┐
-│                                                         │
-│  🎯 CTF       →  Hack The Box — active machines        │
-│  🔬 RESEARCH  →  Web exploitation & AD attack chains   │
-│  🛠️  BUILD     →  darkbyte-bot · farmguard platform    │
-│  📖 STUDYING  →  OSCP prep · OffSec methodology        │
-│  🌍 GOAL      →  Bug bounty · Security researcher      │
-│                                                         │
-│  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░] 75% — always in progress     │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
 
 ---
 
