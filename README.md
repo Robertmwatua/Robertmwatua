@@ -31,20 +31,11 @@
 </td>
 <td width="78%" valign="middle">
 
-```console
-root@R0b3rt0:~# cat /etc/identity
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  WHO     →  Robert Mwatua // R0b3rt0
-  ROLE    →  Offensive Security Operator
-  NODE    →  Nairobi, Kenya 🇰🇪
-  OS      →  Kali Linux rolling
-  ARENA   →  HTB · picoCTF · SK-CERT · t3rmCTF
-  AWARD   →  🏆 Youth STEM Innovation 2026 — STRI
-  TARGET  →  Bug bounty · OSCP · Security Research
-  MOTTO   →  "You'll sleep when you die."
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-[✓] Recon complete. No traces. Hello friend.
-```
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1500&pause=800&color=00FF41&vCenter=true&width=520&height=22&lines=%24+cat+%2Fetc%2Fidentity" alt="cmd"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1200&pause=4000&color=00FF41&vCenter=true&width=520&height=140&lines=+WHO++++%E2%86%92++Robert+Mwatua+%2F%2F+R0b3rt0;+NODE+++%E2%86%92++Nairobi%2C+Kenya+%F0%9F%87%B0%F0%9F%87%AA;+ROLE+++%E2%86%92++Offensive+Security+Operator;+ARENA++%E2%86%92++HTB+%C2%B7+picoCTF+%C2%B7+SK-CERT+%C2%B7+t3rmCTF;+AWARD++%E2%86%92++%F0%9F%8F%86+Youth+STEM+Innovation+2026;+MOTTO++%E2%86%92++You%27ll+sleep+when+you+die." alt="identity"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=2000&pause=3000&color=39FF14&vCenter=true&width=520&height=22&lines=%5B%E2%9C%93%5D+Recon+complete.+No+traces.+Hello+friend." alt="status"/>
 
 </td>
 </tr>
